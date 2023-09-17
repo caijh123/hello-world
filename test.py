@@ -21,3 +21,6 @@ def data(file_name):
     df = pd.read_csv(file_name)
     return df
 
+
+def sum_dat():
+    return 1
